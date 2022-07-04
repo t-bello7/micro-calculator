@@ -1,37 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name : Micro Magic Calculator
 
 > Description the project.
-
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
 
 ## Built With
 
-- React 
-- Javascript
+- Vite, React and Javascript 
+- Gitflow and Github flow
 
-## Live Demo (if available)
+## Live Demo (Coming Soon)
 
-[Live Demo Link](https://livedemo.com)
+<!-- [Live Demo Link](https://livedemo.com) -->
 
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+This project is open source and you are free take modify and do with as you wish. To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites ♻️
+- Any modern browser.
+- A local version control like git installed on your computer
+- NodeJs
+- Code editor (Visual studio code, sublime text, notepad++, ...) installed on your computer.
+- Knowledge of HTML, CSS, JavaScipt, Vite and React.
+
 
 ### Setup
+- Clone the project using the [link](https://github.com/t-bello7/micro-calculator)
 
 ### Install
+- After cloning, change directory into the root folder of the project and run `yarn install` in your terminal to install necessary dependencies.
 
 ### Usage
-
-### Run tests
+- After necessary dependencies have been installed run `yarn dev` in your terminal to start a live server of the project.
+<!-- ### Run tests -->
 
 ### Deployment
-
-
+- Run `yarn build` in the terminal to build files for deployment and distribution
 
 ## Authors
 
@@ -53,9 +60,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Mark Ericson and Jason tutorial on react and redux. Check it out [here](https://react-redux.js.org/introduction/getting-started#docs-translations) 
+- Microverse School
 
 ## 📝 License
 
