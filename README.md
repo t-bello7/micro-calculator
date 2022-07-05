@@ -63,6 +63,9 @@ Give a ⭐️ if you like this project!
 - Mark Ericson and Jason tutorial on react and redux. Check it out [here](https://react-redux.js.org/introduction/getting-started#docs-translations) 
 - Microverse School
 
+## Resources Used 
+- https://www.behance.net/gallery/144957799/Minimal-Calculator-app-ui?tracking_source=search_projects%7Ccalculator
+- https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_components.md
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
