@@ -3,3 +3,39 @@
 body {
   font-family: 'Gentium Book Plus', serif;
 }
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+}
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+.hide {
+  display: none;
+}
+
+.navbar__list {
+  justify-content: space-between;
+}
