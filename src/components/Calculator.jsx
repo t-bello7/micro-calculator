@@ -11,7 +11,8 @@ function Calculator(){
         setCalcObj(newCalcObj);
     }
     return (
-        <>
+        <div className='container'>
+            <h2>Let's do some Math!</h2>
             <span role="textbox"contentEditable className='calc-input' suppressContentEditableWarning={true}> {calcObj.next || calcObj.total || 0 }</span>
             <div className='calc-container'>
                 <button className='btn btn-oper' type="button" onClick={handleClick}> AC </button>
@@ -33,8 +34,8 @@ function Calculator(){
                 <button className='btn btn-zero' type='button' onClick={handleClick} >0</button>
                 <button className='btn' type='button' onClick={handleClick} >.</button>
                 <button className='btn btn-calc' type='button' onClick={handleClick} >=</button>
+            </div>
         </div>
-        </>
     )
 }
 
